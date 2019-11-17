@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+    color: beige;
+    text-align: center;
+    font-size: 30pt;
+}
+
+form {
+    display: block;
+    border: 5px solid white;
+    background-color: beige;
+    color: black;
+    text-align: left;
+    position: relative;
+    top: 100px;
+    width: 500px;
+    margin: 0px auto;
+    font-size: 18pt;
+}
+
+form label {
+    display: block;
+    position: relative;
+    text-align: right;
+    float: left;
+    width: 190px;
+}
+
+form .input {
+    width: 290px;
+}
+
+.home {
+    display: block;
+    background-color: white;
+    color: black;
+    position: relative;
+    top: 100px;
+    margin: 0px auto;
+    width: 500px;
+}
+
+.consulta {
+    display: block;
+    background-color: white;
+    color: black;
+    margin: 10px auto;
+    position: relative;
+    width: 500px;
+}
